@@ -13,7 +13,7 @@ This game is a mix between the classic aracade stacking game and the spinning li
 
 ## Rules
 
-Hold the arduino upside down (I was looking at it upside down when I built it, so it ended up being more playable that way)
+Hold the arduino upside down (I was looking at it upside down when I built it, so it ended up being more playable that way) /n
 The left button works when the purple light is on the right side
 The right button works when the purple light is on the left side
 Click the correct button when the purple light is on the next un-lit light in the sequence (sequence starts at the top for both the left and right sides)
