@@ -28,6 +28,9 @@ beat 3 levels to win
 
 ## Input/Output
 left button: used to stack on right side
+
 Right button: used to stack on left side
+
 LED lights: show where the stacking block is (purple) and how high has been stacked
+
 Sound: indicates when successful stack and plays tune when lost or win
