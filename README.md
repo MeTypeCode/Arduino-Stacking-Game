@@ -1,4 +1,4 @@
-# Engr103FinalProject_kj
+# Arduino Stacking Game
 
 ## Author
 Kylan Jagels
